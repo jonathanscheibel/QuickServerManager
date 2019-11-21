@@ -1,0 +1,6 @@
+[remmina]
+file=/home/jonathan/.config/remmina/remmina.pref
+path=/home/jonathan/.local/share/remmina/
+
+[default_ssh]
+timeout=10
